@@ -1,4 +1,4 @@
-# 🛰️ UNet-Based Satellite Image Segmentation
+# 🛰️ UNet-Based Semantic Segmentation of Satellite Imagery for Geospatial Feature Extraction
 
 
 This project implements a UNet model using PyTorch for segmenting satellite images. The model is trained on paired image-mask samples and deployed using a Gradio interface via Hugging Face Spaces.
